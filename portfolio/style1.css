@@ -108,15 +108,7 @@ ul li a:hover{
     margin-top: 30px;
     }
   
-  /* Skills Section Styles */
-  /*#skills ul {
-    list-style-type: none;
-    padding: 0;
-    text-align: left;
-    margin-top: 30px;
-  }
-  */
-  /* Projects Section Styles */
+
   #projects .project {
     margin-top: 30px;
     text-align: center;
@@ -132,7 +124,7 @@ ul li a:hover{
     background-color: beige;
   }
   
-  /* Contact Section Styles */
+
 #contact h2{
     
     text-align: left;
